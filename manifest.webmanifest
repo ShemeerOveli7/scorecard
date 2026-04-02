@@ -1,0 +1,17 @@
+{
+  "name": "Scorpion Cricket Scorecard",
+  "short_name": "Scorpion Score",
+  "description": "Mobile-first cricket scorecard with live scoring, innings tracking, and match summary.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f9fbfd",
+  "theme_color": "#0f9d82",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
